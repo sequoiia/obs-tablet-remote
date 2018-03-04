@@ -5,6 +5,7 @@ import Grid from './grid'
 import Iframe from './iframe'
 import Invalid from './invalid'
 import Scenes from './scenes'
+import SceneCollection from './scenecollection'
 import Sources from './sources'
 import Stream from './stream'
 import Transitions from './transitions'
@@ -15,6 +16,7 @@ const components = {
 	Iframe,
 	Invalid,
 	Scenes,
+	SceneCollection,
 	Sources,
 	Transitions,
 	Durations,
